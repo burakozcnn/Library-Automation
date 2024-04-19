@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibraryDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kitap">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KitapAdi" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Yazar" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Tur" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="SayfaSayisi" Type="int" Nullable="false" />
+    <Property Name="BasimYili" Type="int" Nullable="false" />
+    <Property Name="YayinEvi" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Adet" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Odunc">
+    <Key>
+      <PropertyRef Name="Oduncid" />
+    </Key>
+    <Property Name="Oduncid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UyeAdi" Type="nvarchar" MaxLength="100" />
+    <Property Name="UyeSoyadi" Type="nvarchar" MaxLength="100" />
+    <Property Name="KitapAdi" Type="nvarchar" MaxLength="100" />
+    <Property Name="VerilisTarihi" Type="date" />
+    <Property Name="TeslimTarihi" Type="date" />
+  </EntityType>
+  <EntityType Name="Uye">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="100" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="100" />
+    <Property Name="DogumTarihi" Type="date" />
+    <Property Name="Cinsiyet" Type="nvarchar" MaxLength="5" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="10" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Adres" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="LibraryDatabaseModelStoreContainer">
+    <EntitySet Name="Kitap" EntityType="Self.Kitap" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Odunc" EntityType="Self.Odunc" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Uye" EntityType="Self.Uye" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

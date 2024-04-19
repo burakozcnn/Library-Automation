@@ -1,0 +1,50 @@
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Form1.resources
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\Administrator\Desktop\FormProjeler\KütüphaneOtomasyon\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Form1.resources
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.KütüphaneAnaSayfa.resources
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Kitapİslemleri.resources
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Form1.resources
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Kitapİslemleri.resources
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.KütüphaneAnaSayfa.resources
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\FormProjeler - Kopya\LibraryAutomation\LibraryAutomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\FormProjeler\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Uyeİslemleri.resources
